@@ -13,6 +13,6 @@ permalink: /about/
 <!-- Include link image of brown bear with "brown bear" caption. Remember to delete some stuff -->
 
 <a href="">
-	<img src="./assets/images/brown_bear_img.jpg"/>
+	<img src="/assets/images/brown_bear_img.png"/>
 </a>
 <a href="/bears/">Click here for Brown Bears </a>
